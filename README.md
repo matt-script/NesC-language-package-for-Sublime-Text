@@ -9,3 +9,4 @@
 - Copy the ***nesC.sublime-package*** file into the folder;
 - Restart Sublime Text;
 - Select the nesC language by clicking on *View > Syntax > nesC*.
+Diocane
