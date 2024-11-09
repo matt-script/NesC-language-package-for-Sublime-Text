@@ -1,4 +1,4 @@
-# NesC-language-package-for-Sublime-Text-Windows-
+# NesC-language-package-for-Sublime-Text
 ### Text Editor for nesC on Windows
 
 - Run the Sublime Text installation.  
